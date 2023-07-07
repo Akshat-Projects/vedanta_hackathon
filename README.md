@@ -1,3 +1,4 @@
+** Problem Statement :-**
 The in-plant movement of vehicles leads to dust generation. This dust can make the air quality poor, which can lead to difficulty in movement and other health issues. Currently, sprinkling systems are installed by the side of the road to help reduce dust. However, these sprinkling systems are operated manually, which means that someone has to manually turn the valves on. This can be inconvenient and time-consuming. An automated sprinkling system as a solution would be more efficient and effective. This system would be able to operate automatically based on the present air quality. This means that the system would only activate when the air quality is poor, which would help to reduce water usage. Also, it won't activate if it detects motion around it (caused by people or vehicles), so that people or vehicles are not caught by surprise and get wet.
 
 **OUR APPROACH INCLUDES:-**
@@ -27,5 +28,8 @@ _>------------3. It will keep refreshing the air pollution stats; the sprinkler 
 2. It would be more efficient, only activating when necessary.
 3. It would be more effective, as it would help to reduce dust levels more than a manual system.
 4. It would be more eco-friendly, as it would help to reduce water usage.
+
+   
 ![ardF](https://github.com/CodingDunno/vedanta_hackathon/assets/126494630/3525e863-d36d-42bd-8d29-2207a5778369)
+
 ![PXL_20230622_062320412](https://github.com/CodingDunno/vedanta_hackathon/assets/126494630/cf95817b-e258-4b88-a73c-51cac934d2c4)
