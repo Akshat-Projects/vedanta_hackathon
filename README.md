@@ -27,5 +27,5 @@ _>------------3. It will keep refreshing the air pollution stats; the sprinkler 
 2. It would be more efficient, only activating when necessary.
 3. It would be more effective, as it would help to reduce dust levels more than a manual system.
 4. It would be more eco-friendly, as it would help to reduce water usage.
-![Uploading PXL_20230622_062320412.jpg…]()
 ![ardF](https://github.com/CodingDunno/vedanta_hackathon/assets/126494630/3525e863-d36d-42bd-8d29-2207a5778369)
+![PXL_20230622_062320412](https://github.com/CodingDunno/vedanta_hackathon/assets/126494630/cf95817b-e258-4b88-a73c-51cac934d2c4)
